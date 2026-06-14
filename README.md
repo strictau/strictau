@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://wavenet.gg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E41937&center=true&vCenter=true&width=620&lines=Building+Wave+Network+%2B+Esports+Hub;The+network+behind+modern+esports" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=620&lines=Building+Wave+Network+%2B+Esports+Hub;The+network+behind+modern+esports" alt="Typing SVG" />
 </a>
 
 [![X](https://img.shields.io/badge/@strictau-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/strictau)
@@ -43,6 +43,6 @@ The network behind modern esports: the marketing and content hub for the org and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=strictau&bg_color=0d1117&color=E41937&line=E41937&point=ffffff&area=true&hide_border=true" width="100%" alt="contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strictau&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="contribution activity graph" />
 
 </div>
