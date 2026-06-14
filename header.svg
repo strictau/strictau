@@ -1,0 +1,31 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="strict - esports platforms, discord bots, web">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff3355"/>
+      <stop offset="100%" stop-color="#9c1024"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff3355"/>
+      <stop offset="100%" stop-color="#E41937"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="20%" cy="34%" r="58%">
+      <stop offset="0%" stop-color="#E41937" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#E41937" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="#0a0d12"/>
+  <rect width="1200" height="260" rx="18" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="84" y="84" width="7" height="94" rx="3.5" fill="url(#bar)"/>
+
+  <text x="116" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="96" font-weight="800" letter-spacing="-3" fill="#ffffff">strict</text>
+
+  <rect x="119" y="170" width="0" height="5" rx="2.5" fill="url(#sweep)">
+    <animate attributeName="width" values="0;292" keyTimes="0;1" calcMode="spline" keySplines="0.2 0.8 0.2 1" dur="1.3s" begin="0.2s" fill="freeze"/>
+  </rect>
+
+  <text x="121" y="206" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="7" fill="#8b929b">ESPORTS PLATFORMS · DISCORD BOTS · WEB</text>
+</svg>

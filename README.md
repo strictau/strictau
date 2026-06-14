@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E41937,100:120303&height=180&section=header&text=strict&fontSize=70&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/strictau/strictau/main/header.svg" width="100%" alt="strict" />
 
 <a href="https://wavenet.gg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E41937&center=true&vCenter=true&width=620&lines=Building+Wave+Network+%2B+Esports+Hub;Esports+platforms+%26+Discord+bots;Always+shipping" alt="Typing SVG" />
@@ -44,8 +44,6 @@ The network behind modern esports: the marketing and content hub for the org and
 ## Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=strictau&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E41937&icon_color=E41937&text_color=ffffff" height="165" alt="GitHub stats" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strictau/strictau/main/profile-3d-contrib/profile-night-view.svg" />
