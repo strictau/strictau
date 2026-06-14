@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/strictau/strictau/main/header.svg" width="100%" alt="strict" />
-
 <a href="https://wavenet.gg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E41937&center=true&vCenter=true&width=620&lines=Building+Wave+Network+%2B+Esports+Hub;Esports+platforms+%26+Discord+bots;Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E41937&center=true&vCenter=true&width=620&lines=Building+Wave+Network+%2B+Esports+Hub;The+network+behind+modern+esports" alt="Typing SVG" />
 </a>
 
 [![X](https://img.shields.io/badge/@strictau-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/strictau)
