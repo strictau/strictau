@@ -43,10 +43,6 @@ The network behind modern esports: the marketing and content hub for the org and
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strictau/strictau/main/profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strictau/strictau/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/strictau/strictau/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strictau&bg_color=0d1117&color=E41937&line=E41937&point=ffffff&area=true&hide_border=true" width="100%" alt="contribution activity graph" />
 
 </div>
