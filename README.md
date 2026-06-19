@@ -1,15 +1,3 @@
-<div align="center">
-
-<a href="https://wavenet.gg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=620&lines=Building+Wave+Network+%2B+Esports+Hub;The+network+behind+modern+esports" alt="Typing SVG" />
-</a>
-
-[![X](https://img.shields.io/badge/@strictau-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/strictau)
-[![Esports Hub](https://img.shields.io/badge/esportshub.io-E41937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://esportshub.io)
-[![Wave Network](https://img.shields.io/badge/wavenet.gg-000ED6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wavenet.gg)
-
-</div>
-
 ## Projects
 
 <table>
