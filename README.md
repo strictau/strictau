@@ -1,7 +1,5 @@
 # Building the network behind modern esports.
 
-I'm building [Esports Hub](https://esportshub.io) and [Wave Network](https://wavenet.gg).
-
 ## Projects
 
 - **[Esports Hub](https://esportshub.io):** An all-in-one esports career platform for networking. [Discord](https://discord.gg/esportshub)
