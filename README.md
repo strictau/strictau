@@ -1,10 +1,8 @@
-`strictau / README.md`
-
 # 👋 Hey, I'm Strict
 
 `Founder & Engineer`
 
-[![Esports Hub](https://img.shields.io/badge/ESPORTS%20HUB-7C5CFC?style=for-the-badge)](https://esportshub.io) [![Wave Network](https://img.shields.io/badge/WAVE%20NETWORK-FD9520?style=for-the-badge)](https://wavenet.gg)
+[![Esports Hub](https://img.shields.io/badge/ESPORTS%20HUB-1E3A8A?style=for-the-badge)](https://esportshub.io) [![Wave Network](https://img.shields.io/badge/WAVE%20NETWORK-0EA5E9?style=for-the-badge)](https://wavenet.gg)
 
 ## 🚀 Projects
 
