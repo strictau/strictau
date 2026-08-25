@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/strictau/strictau/main/assets/wave.svg" width="36" height="36" align="absmiddle" alt="👋"> Hey, I'm Strict
 
-`Founder & Engineer`
-
 [![Esports Hub](https://img.shields.io/badge/ESPORTS%20HUB-1D4ED8?style=for-the-badge)](https://esportshub.io) [![Wave Network](https://img.shields.io/badge/WAVE%20NETWORK-0EA5E9?style=for-the-badge)](https://wavenet.gg)
 
 ## <img src="https://raw.githubusercontent.com/strictau/strictau/main/assets/rocket.svg" width="28" height="28" align="absmiddle" alt="🚀"> Projects
