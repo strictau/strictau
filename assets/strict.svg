@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="784" height="204" viewBox="0 0 784 204" role="img" aria-labelledby="title desc"><title id="title">strict</title><desc id="desc">STRICT in white block ASCII lettering.</desc><rect width="784" height="204" fill="#111416"/><g fill="#ffffff" font-family="Consolas, 'Courier New', monospace" font-size="24"><text x="32" y="40" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███████╗ ████████╗ ██████╗  ██╗  ██████╗ ████████╗</text><text x="32" y="66" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">██╔════╝ ╚══██╔══╝ ██╔══██╗ ██║ ██╔════╝ ╚══██╔══╝</text><text x="32" y="92" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███████╗    ██║    ██████╔╝ ██║ ██║         ██║   </text><text x="32" y="118" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">╚════██║    ██║    ██╔══██╗ ██║ ██║         ██║   </text><text x="32" y="144" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███████║    ██║    ██║  ██║ ██║ ╚██████╗    ██║   </text><text x="32" y="170" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">╚══════╝    ╚═╝    ╚═╝  ╚═╝ ╚═╝  ╚═════╝    ╚═╝   </text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="784" height="204" viewBox="0 0 784 204" role="img" aria-labelledby="title desc">
+  <title id="title">strict</title>
+  <desc id="desc">STRICT in white block ASCII lettering.</desc>
+  <style>
+    @keyframes reveal { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+    .reveal { transform-box: view-box; transform-origin: 32px 12px; animation: reveal 900ms cubic-bezier(0.22, 1, 0.36, 1) 120ms both; }
+    .wordmark { animation: appear 220ms ease-out 120ms both; }
+    @media (prefers-reduced-motion: reduce) { .reveal, .wordmark { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="title-reveal" clipPathUnits="userSpaceOnUse">
+      <rect class="reveal" x="32" y="12" width="720" height="176"/>
+    </clipPath>
+  </defs>
+  <rect width="784" height="204" fill="#111416"/>
+  <g clip-path="url(#title-reveal)">
+    <g class="wordmark" fill="#ffffff" font-family="Consolas, 'Courier New', monospace" font-size="24">
+      <text x="32" y="40" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███████╗ ████████╗ ██████╗  ██╗  ██████╗ ████████╗</text>
+      <text x="32" y="66" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">██╔════╝ ╚══██╔══╝ ██╔══██╗ ██║ ██╔════╝ ╚══██╔══╝</text>
+      <text x="32" y="92" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███████╗    ██║    ██████╔╝ ██║ ██║         ██║   </text>
+      <text x="32" y="118" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">╚════██║    ██║    ██╔══██╗ ██║ ██║         ██║   </text>
+      <text x="32" y="144" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">███████║    ██║    ██║  ██║ ██║ ╚██████╗    ██║   </text>
+      <text x="32" y="170" textLength="720" lengthAdjust="spacingAndGlyphs" xml:space="preserve">╚══════╝    ╚═╝    ╚═╝  ╚═╝ ╚═╝  ╚═════╝    ╚═╝   </text>
+    </g>
+  </g>
+</svg>
